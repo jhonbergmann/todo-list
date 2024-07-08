@@ -19,9 +19,11 @@
 ## 📦 Tech Stack
 
 - Vite
+- Expo
 - Typescript
 
-[check in package.json](/package.json)
+[check web in package.json](web/package.json)
+[check mobile in package.json](mobile/package.json)
 
 ## 🔩 Installation
 
