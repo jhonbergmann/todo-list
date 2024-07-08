@@ -23,6 +23,7 @@
 - Typescript
 
 [check web in package.json](web/package.json)
+
 [check mobile in package.json](mobile/package.json)
 
 ## 🔩 Installation
