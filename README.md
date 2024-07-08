@@ -29,13 +29,22 @@ To install and run the project locally, follow these steps:
 
 1. Install [**Yarn**](https://yarnpkg.com/) on your computer
 1. Clone the repository `git clone https://github.com/jhonbergmann/todo-list.git`
-1. Navigate to the project directory: `cd todo-list`
+1. Navigate to the project directory: `cd todo-list\web`
+1. Install the dependencies: `yarn install`
+1. Navigate to the project directory: `cd todo-list\mobile`
 1. Install the dependencies: `yarn install`
 
 ## ⚙️ Usage
 
+### web
+
 1. Start the development server: `yarn dev`
 1. Now access the following url in your browser: `http://localhost:5173`
+
+### mobile
+
+1. Start the development server: `yarn dev`
+1. Read the QR Code with the Expo Go app
 
 ## 📝 License
 
