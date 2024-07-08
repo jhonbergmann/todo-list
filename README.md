@@ -14,7 +14,7 @@
 </p>
 
 ## 🔺 Demo
-### [Live Demo, click here](https://todo-list-umber-theta.vercel.app/)
+### [Live Demo, click here](https://todo-list-jhonatan-bergmann.vercel.app/)
 
 ## 📦 Tech Stack
 
